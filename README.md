@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hakuciw
+- 👋 Hi, I’m @Alpin
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me ...
 - My favorite drink are milk and coffee
 
